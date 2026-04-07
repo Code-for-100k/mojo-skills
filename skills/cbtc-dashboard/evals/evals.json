@@ -1,0 +1,23 @@
+{
+  "skill_name": "cbtc-dashboard",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "Run the CBTC dashboard for my wallets and show me the output",
+      "expected_output": "Full dashboard output with balances, transfer activity, rewards, network metrics, and trailing avg for all 50 wallets",
+      "files": []
+    },
+    {
+      "id": 1,
+      "prompt": "How many transfers did the retail pool send this week and how much CC reward did it earn?",
+      "expected_output": "Transfer count and CC reward amount for the Retail Pool wallet over the last 7 days, queried from the Activity Tracker API",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Check if any of my batch wallets have a non-zero CBTC balance",
+      "expected_output": "Query party_balances for all 45 batch wallet IDs and report which (if any) have balance > 0",
+      "files": []
+    }
+  ]
+}
