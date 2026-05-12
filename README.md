@@ -28,6 +28,7 @@ Restart Claude Code after installing.
 | **zoro-wallet-api** | Zoro Wallet API for Canton on-chain wallet operations |
 | **agentic-gateway** | Alchemy blockchain APIs with multiple auth methods |
 | **alchemy-api** | Alchemy blockchain APIs using API key |
+| **fathom-mcp** | Query Fathom meeting recordings, transcripts, AI summaries, and attendees |
 
 ## Scheduled Tasks
 
