@@ -29,6 +29,7 @@ Restart Claude Code after installing.
 | **agentic-gateway** | Alchemy blockchain APIs with multiple auth methods |
 | **alchemy-api** | Alchemy blockchain APIs using API key |
 | **fathom-mcp** | Query Fathom meeting recordings, transcripts, AI summaries, and attendees |
+| **bd-standup** | Generate Mayank's daily BD stand-up in his canonical Yesterday/Today format from Slack + Notion |
 
 ## Scheduled Tasks
 
